@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15254714.svg)](https://doi.org/10.5281/zenodo.15254714)
+![Topics: quantum-circuit, intent, feedback, structure, PiTer](https://img.shields.io/badge/topics-quantum--circuit%2C%20intent%2C%20feedback%2C%20structure%2C%20PiTer-blue)
+
 # QINTENT-ELECTRIC
 
 **Electricity as Feedback: Structural Intent and Flow in Quantum Circuits**  
