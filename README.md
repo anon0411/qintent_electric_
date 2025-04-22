@@ -105,10 +105,15 @@ This diagram shows the generative flow and structural linkage among related quan
 This work is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
 자유롭게 공유하고 수정할 수 있으며, 출처 표기를 필요로 합니다.
 
+## 🔖 License  
+This repository is licensed under the Creative Commons Attribution 4.0 (CC BY 4.0).  
+See the [LICENSE](./LICENSE) file for details.
+
+
 ---
 
 > *“Intent creates flow, and flow evolves structure.”*  
 > — Summary of the QINTENT-ELECTRIC hypothesis
 
 ---
-_Last updated: 2025-04-22 – Added topics and description metadata for GitHub indexing. 실험 흐름 구조도, 연관 리포 명시_
+_Last updated: 2025-04-22 – Added topics and description metadata for GitHub indexing. 실험 흐름 구조도, 연관 리포 명시, 라이선스 명시_
