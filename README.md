@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15254714.svg)](https://doi.org/10.5281/zenodo.15254714)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15287085.svg)](https://doi.org/10.5281/zenodo.15287085)
 ![Topics: quantum-circuit, feedback, structure, PiTer, structural-responsiveness](https://img.shields.io/badge/topics-quantum--circuit%2C%20feedback%2C%20structure%2C%20PiTer%2C%20structural--responsiveness-blue)
 
 # QINTENT-ELECTRIC
